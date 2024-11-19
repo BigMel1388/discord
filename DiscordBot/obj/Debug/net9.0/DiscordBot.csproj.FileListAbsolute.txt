@@ -26,3 +26,4 @@ c:\Users\ASUS\Desktop\discord\DiscordBot\obj\Debug\net9.0\refint\DiscordBot.dll
 c:\Users\ASUS\Desktop\discord\DiscordBot\obj\Debug\net9.0\DiscordBot.pdb
 c:\Users\ASUS\Desktop\discord\DiscordBot\obj\Debug\net9.0\DiscordBot.genruntimeconfig.cache
 c:\Users\ASUS\Desktop\discord\DiscordBot\obj\Debug\net9.0\ref\DiscordBot.dll
+c:\Users\ASUS\Desktop\discord\DiscordBot\obj\Debug\net9.0\DiscordBot.sourcelink.json
